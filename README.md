@@ -7,11 +7,12 @@ Anything programming related from x64 Assembly to Javascript application develop
 C/C++, C# (.NET Languages), D, Golang, Julia, Java, Javascript, Pascal, Python, Rust.
 
 - 💞️ I’m looking to collaborate on ...
-Security, AI, Filesystem projects
+Projects involving security, AI, or filesystem management
 
 - 📫 How to reach me ...
 [Telegram @Tech_Support_Guy]: https://t.me/Tech_Support_Guy
-[Twitter @DustinKathol]: https://twitter.com/DustinKathol
+[Email]: dustin@dragonflysecure.com
+[Website]: https://dragonflysecure.com/
 
 <!---
 dkat263/dkat263 is a special repository because its `README.md` (this file) appears on your GitHub profile.
